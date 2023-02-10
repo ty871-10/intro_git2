@@ -4,3 +4,4 @@ gitの練習をしていきます。
 変更
 git diff
 git status
+git diff
