@@ -3,3 +3,4 @@ gitの練習をしていきます。
 成功したい
 変更
 git diff
+git status
